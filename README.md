@@ -1,9 +1,8 @@
 
 ## 💫**About Me** ##
 
-![WhatsApp Image 2023-06-04 at 20 51 47](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/995e3c4e-be65-48aa-b7dc-1194df609009)
 
-
+<img src="![WhatsApp Image 2023-06-04 at 20 51 47](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/67748a39-10f4-469d-adea-9fb0f875ae96)" width="100" height="100">
 
 
 - 👋 Hi, I’m Riddhiman Bhattacharya
@@ -28,7 +27,7 @@ I'm not very active in social media but here are my social media links <br>
 
 
 **Everlasting Quest for Physics(EQP)** is an initiative to provide a platform for HS students with like minded peers and teach, discuss courses which are not under normal school curriculum.
-The [Website link](everlastingquestforphysics.wordpress.com) where I write blogs . They are mostly for general students sometimes made creative with added humor to invoke the interests for Physics and Maths 
+The is the [Website link](everlastingquestforphysics.wordpress.com) where I write blogs . They are mostly for general students sometimes made creative with added humor to invoke the interests for Physics and Maths 
 among students.
 
 1) [Instagram](https://www.instagram.com/everlastingquestforphysics/)
