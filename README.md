@@ -2,7 +2,7 @@
 ## 💫**About Me** ##
 
 
-![WhatsApp Image 2023-06-04 at 20 51 47](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/043f1341-32a5-47ff-bd4b-c3f9d1cf2ac8)0">
+![WhatsApp Image 2023-06-04 at 20 51 47](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/043f1341-32a5-47ff-bd4b-c3f9d1cf2ac8)
 
 
 - 👋 Hi, I’m Riddhiman Bhattacharya
