@@ -23,7 +23,7 @@ I'm not very active in social media but here are my social media links <br>
 
 
 
-## EVERLASTING QUEST FOR PHYSICS ##
+## 💻 EVERLASTING QUEST FOR PHYSICS ##
 
 
 **Everlasting Quest for Physics(EQP)** is an initiative to provide a platform for HS students with like minded peers and teach, discuss courses which are not under normal school curriculum.
@@ -32,6 +32,21 @@ among students.
 
 1) [Instagram](https://www.instagram.com/everlastingquestforphysics/)
 2) [Facebook](https://www.facebook.com/profile.php?id=100092194485891)
+
+
+## 🎨 ARTS 
+
+##### 1) <br>
+ ![Graphing](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/9d42c36f-7134-48e0-a10f-92884d10cbd1) <br>
+
+<br>
+
+##### 2)  <br>
+
+
+![Birthday Cake](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/dff9569e-4552-4c95-b676-9cc8c192f49d)
+
+
 
 
 
