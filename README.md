@@ -30,7 +30,12 @@ I'm not very active in social media but here are my social media links <br>
 The is the [Website link](everlastingquestforphysics.wordpress.com) where I write blogs . They are mostly for general students sometimes made creative with added humor to invoke the interests for Physics and Maths 
 among students.
 
-1) [Instagram](https://www.instagram.com/everlastingquestforphysics/)
+
+
+1) [Instagram](https://www.instagram.com/everlastingquestforphysics/) : Here, I regularly posts some Physics stuffs. 
+
+
+
 2) [Facebook](https://www.facebook.com/profile.php?id=100092194485891)
 
 
@@ -45,6 +50,35 @@ among students.
 
 
 ![Birthday Cake](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/dff9569e-4552-4c95-b676-9cc8c192f49d)
+
+
+##### 3) <br>
+
+![Flag Made through Equations and Graphs](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/2c52825b-4aae-46d8-b20b-d642730c67f3)
+
+
+##### 4)
+
+
+
+https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/c75c5895-e86e-4ec0-b025-f177bcbbe936
+
+
+##### 6)
+
+![Equation-1](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/ad4dff3d-b3e0-490f-8e76-4c635d91d9bb)
+
+
+
+There are lot more. Whenever I'm free I open [Desmos Graphing](https://www.desmos.com/calculator) and spend my time trying some form of creative things.
+
+
+
+
+
+
+
+
 
 
 
