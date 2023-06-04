@@ -27,19 +27,19 @@ I'm learning a lot of things. Though I'm not expert in coding, I can do a little
 the enlisted languages
 
 
-1) **JAVA**
-2) **C**
-3) **C++**
-4) **Python**
-5) **Fortran**
-6) **Html**
+  1) **JAVA**
+  2) **C**
+  3) **C++**
+  4) **Python**
+  5) **Fortran**
+  6) **Html**
 
 
 ## Addictions ##
 
 So, you thought this is going to be Instagram reels or Facebook?  No, that's not the case. 
 
-To be honest, I'm really addicted to **GitHub** and **LaTex**. These days,  most of the time, you'll find me studying books learning GitHub and LaTex usage.
+To be honest, I'm really addicted to **GitHub** and **LaTex**. These days,  most of the time, you'll find me studying books or blogs learning GitHub and LaTex usage.
 
  
 The other platform where I'm addicted from last few days is **Jupyter Notebook**.
