@@ -19,6 +19,8 @@ I'm not very active in social media but here are my social media links <br>
 2) [Instagram](https://instagram.com/riddhiphy?igshid=NTc4MTIwNjQ2YQ==) <br>
 3) [Linkedin](https://www.linkedin.com/in/riddhiman-bhattacharya-211a61236/) <br>
 4) [Twitter](https://twitter.com/CosmoQuantumRid) <br>
+5) [Quora](https://www.quora.com/profile/Physics-Demons) <br>
+
 
 
 ## Programming Languages ##
