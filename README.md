@@ -10,6 +10,7 @@
 - ⚡ Under Physics I'm interested in **Cosmology**, **Quantum Mechanics** and **String Theory**.
 - 🌱 I’m currently learning **Python 🐍** and **Fortran**
 - 💞️ I love Graphing, Astrophotography, Coding, Debate and Cryptosolving. 
+- 
 
 ## 🌐 Social Media ##
 
@@ -18,6 +19,30 @@ I'm not very active in social media but here are my social media links <br>
 2) [Instagram](https://instagram.com/riddhiphy?igshid=NTc4MTIwNjQ2YQ==) <br>
 3) [Linkedin](https://www.linkedin.com/in/riddhiman-bhattacharya-211a61236/) <br>
 4) [Twitter](https://twitter.com/CosmoQuantumRid) <br>
+
+
+## Programming Languages ##
+
+I'm learning a lot of things. Though I'm not expert in coding, I can do a little bit. Out of my own interesting I've learnt or to say am learning 
+the enlisted languages
+
+
+1) **JAVA**
+2) **C**
+3) **C++**
+4) **Python**
+5) **Fortran**
+6) **Html**
+
+
+## Addictions ##
+
+So, you thought this is going to be Instagram reels or Facebook?  No, that's not the case. 
+
+To be honest, I'm really addicted to **GitHub** and **LaTex**. These days,  most of the time, you'll find me studying books learning GitHub and LaTex usage.
+
+ 
+The other platform where I'm addicted from last few days is **Jupyter Notebook**.
 
 
 
