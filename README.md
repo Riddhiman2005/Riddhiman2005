@@ -76,7 +76,11 @@ There are lot more. Whenever I'm free I open [Desmos Graphing](https://www.desmo
 
 
 
+## YOUTUBE ##
 
+I recently started uploading my Graphing works in Youtube Channel. I just do it for fun, and want to improve myself through suggestions of my viewers.
+
+Here is the Link of the channel. [YOUTUBE](https://www.youtube.com/@riddhiman.bhattacharya6568)
 
 
 
