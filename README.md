@@ -14,9 +14,22 @@
 
 ## HOBBIES ##
 
- 📈  ### GRAPHING ###: 
--     ASTROPHOTOGRAPHY
-- 
+   ### GRAPHING AND CODING ###
+   
+   📈
+   
+   👨‍💻
+   
+ ###  ASTROPHOTOGRAPHY ###
+ 
+ 
+ ###   DEBATE  ###
+ 
+ 
+ ###  BLOGS AND ARTICLES ###
+
+
+###   MUSIC: INSTRUMENTAL ###
 
 ## 🌐 Social Media ##
 
