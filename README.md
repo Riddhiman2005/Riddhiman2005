@@ -20,6 +20,7 @@ I'm not very active in social media but here are my social media links <br>
 3) [Linkedin](https://www.linkedin.com/in/riddhiman-bhattacharya-211a61236/) <br>
 4) [Twitter](https://twitter.com/CosmoQuantumRid) <br>
 5) [Quora](https://www.quora.com/profile/Physics-Demons) <br>
+6) [YOUTUBE](https://www.youtube.com/@riddhiman.bhattacharya6568)
 
 
 
@@ -126,7 +127,16 @@ Done using **Python**.
 
 I recently started uploading my Graphing works in Youtube Channel. I just do it for fun, and want to improve myself through suggestions of my viewers.
 
-Here is the Link of the channel. [YOUTUBE](https://www.youtube.com/@riddhiman.bhattacharya6568)
+Here is the Link of the channel. [YOUTUBE](https://www.youtube.com/@riddhiman.bhattacharya6568). I mostly upload my graphing and coding projects.
+
+
+## Books I read in the Last One Year ##
+
+I'm a voracious reader.  Here are some books I've read, along with brief summaries that capture their essence."
+
+
+
+
 
 
 ## Contact ##
