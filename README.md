@@ -97,7 +97,19 @@ https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/c75c5895-e86e-4e
 
 
 
-There are lot more. Whenever I'm free I open [Desmos Graphing](https://www.desmos.com/calculator) and spend my time trying some form of creative things.
+##### 7) **World Environment Day**
+
+
+
+
+![image](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/ec3beeaf-eea3-421d-8ac0-0249ce522f4e)
+
+
+This Diagram of the Tree is prepared by Python Coding. It's not perfect. Still, I thought to add it here.
+
+
+There are lot more. Whenever I'm free I open [Desmos Graphing](https://www.desmos.com/calculator) and spend my time trying some form of creative things. I'll update this section from time to time.
+
 
 
 
