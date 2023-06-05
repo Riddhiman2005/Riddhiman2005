@@ -10,6 +10,12 @@
 - ⚡ Under Physics I'm interested in **Cosmology**, **Quantum Mechanics** and **String Theory**.
 - 🌱 I’m currently learning **Python 🐍** and **Fortran**
 - 💞️ I love Graphing, Astrophotography, Coding, Debate and Cryptosolving. 
+
+
+## HOBBIES ##
+
+ 📈  ### GRAPHING ###: 
+-     ASTROPHOTOGRAPHY
 - 
 
 ## 🌐 Social Media ##
