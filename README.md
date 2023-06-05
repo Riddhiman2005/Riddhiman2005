@@ -50,7 +50,7 @@ The other platform where I'm addicted from last few days is **Jupyter Notebook**
 
 
 
-## 💻 EVERLASTING QUEST FOR PHYSICS ##
+## 💻 [EVERLASTING QUEST FOR PHYSICS](https://github.com/Riddhiman2005/Riddhiman2005/blob/main/everlastingquestforphysics.wordpress.com) ##
 
 
 **Everlasting Quest for Physics(EQP)** is an initiative to provide a platform for HS students with like minded peers and teach, discuss courses which are not under normal school curriculum.
