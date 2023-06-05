@@ -22,7 +22,9 @@
    
  ###  ASTROPHOTOGRAPHY ###
     
-    🔭
+    🔭 Sky observation is a passion of mine. The beauty and mystery of the stars, planets, a
+    nd galaxies fascinate me. I love capturing these objects through my telescope and camera, and exploring the wonders of the universe. 
+    It's a intriguing experience that always leaves me in awe.
  
  
  ###   DEBATE  ###
@@ -32,9 +34,12 @@
  
  ###  BLOGS AND ARTICLES ###
      
-     📝
+     📝 I publish a basic and interesting physics [here](everlastingquestforphysics.wordpress.com) 
+     aimed at engaging general students in science. My goal is to make 
+     science more accessible and enjoyable for everyone, and I believe that by breaking down complex concepts and 
+     making them easy to understand, I can help inspire a love of learning in my readers.
  
- 
+      
 
 
 ###   MUSIC: INSTRUMENTAL ###
@@ -80,7 +85,7 @@ The other platform where I'm addicted from last few days is **Jupyter Notebook**
 
 
 
-## 💻 [EVERLASTING QUEST FOR PHYSICS](https://github.com/Riddhiman2005/Riddhiman2005/blob/main/everlastingquestforphysics.wordpress.com) ##
+## 💻 [EVERLASTING QUEST FOR PHYSICS](everlastingquestforphysics.wordpress.com) ##
 
 
 **Everlasting Quest for Physics(EQP)** is an initiative to provide a platform for HS students with like minded peers and teach, discuss courses which are not under normal school curriculum.
