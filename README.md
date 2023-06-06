@@ -67,7 +67,8 @@
 
 ###   MUSIC: INSTRUMENTAL ###
 
-      🎸 
+      🎸 As a music enthusiast, I love diving into the world of instruments. 
+      From the soothing melodies of Rabindrasangeet to exploring various genres, I enjoy experimenting on the guitar, synthesizer, tabla, and khol. Though my musical endeavors may not be regular, once I start with my Guitar, I get lost in a captivating journey of endless experimentation and musical exploration.
 
 ## 🌐 Social Media ##
 
