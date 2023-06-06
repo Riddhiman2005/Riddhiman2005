@@ -25,9 +25,13 @@
     🔭 Sky observation is a passion of mine. The beauty and mystery of the stars, planets, a
     nd galaxies fascinate me. I love capturing these objects through my telescope and camera, and exploring the wonders of the universe. 
     It's a intriguing experience that always leaves me in awe.
+    
+   ![image](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/0ec76545-860b-4e14-87a1-d32c994b7424)
+
  
  
  ###   DEBATE  ###
+ 
  
     🎙️🗣️ 
  
