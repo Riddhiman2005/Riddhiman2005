@@ -21,7 +21,7 @@
    
    ![image](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/8dcc226c-ca3e-4ee2-8e31-8cec1bdfea70)
 
-  I'll upload my works from time to time. Also I run a [Youtube Channel](https://www.youtube.com/@riddhiman.bhattacharya6568) where I upload the videos of the plots,and graphs. Make sure to visit it.
+ There are lot more. Whenever I'm free I open [Desmos Graphing](https://www.desmos.com/calculator) and spend my time trying some form of creative things. I'll upload my works from time to time. Also I run a [Youtube Channel](https://www.youtube.com/@riddhiman.bhattacharya6568) where I upload the videos of the plots,and graphs. Make sure to visit it.
   
  ###  ASTROPHOTOGRAPHY ###
     
@@ -127,6 +127,9 @@ among students.
 
 ## 🎨 ARTS 
 
+
+### GRAPHING ###
+
 ##### 1) <br>
  ![Graphing](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/9d42c36f-7134-48e0-a10f-92884d10cbd1) <br>
 
@@ -171,16 +174,28 @@ https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/c75c5895-e86e-4e
 | **Egg** |
 
 
+##### 9) 
+
+
+| ![Bhai](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/5dcd8d9f-c0a6-4a95-9a57-8fcab85f7c1c) | 
+|:--:| 
+| **Smile is the best medicine** |
 
 
 
 
 
-**There are lot more. Whenever I'm free I open [Desmos Graphing](https://www.desmos.com/calculator) and spend my time trying some form of creative things. I'll update this 
+
+
+
+
+**I'll update this 
 section from time to time.**
 
 
-##### 8) **World Environment Day**
+### Coding ###
+
+##### 1) **World Environment Day**
 
 
 
@@ -191,7 +206,7 @@ section from time to time.**
 This Diagram of the Tree is prepared by Python Coding. It's not perfect. Still, I thought to add it here.
 
 
-##### 9) **Doraemon**
+##### 2) **Doraemon**
 
 Done using **Python**.
 
