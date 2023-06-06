@@ -152,7 +152,9 @@ https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/c75c5895-e86e-4e
 
 ##### 6)
 
-![Equation-1](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/ad4dff3d-b3e0-490f-8e76-4c635d91d9bb)
+| ![Equation-1](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/ad4dff3d-b3e0-490f-8e76-4c635d91d9bb) |
+|:--:| 
+| **Heart** |
 
 
 ##### 7)
@@ -160,6 +162,14 @@ https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/c75c5895-e86e-4e
 | ![Batman](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/0fdd39a8-87b2-4117-8a96-8f23d9847da7) | 
 |:--:| 
 | **Batman Equation** |
+
+
+##### 8) 
+
+| ![Egg](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/1d16665b-2c20-44b2-9d5a-b03aa5d340ee) | 
+|:--:| 
+| **Egg** |
+
 
 
 
@@ -170,7 +180,7 @@ https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/c75c5895-e86e-4e
 section from time to time.**
 
 
-##### 7) **World Environment Day**
+##### 8) **World Environment Day**
 
 
 
@@ -181,7 +191,7 @@ section from time to time.**
 This Diagram of the Tree is prepared by Python Coding. It's not perfect. Still, I thought to add it here.
 
 
-##### 8) **Doraemon**
+##### 9) **Doraemon**
 
 Done using **Python**.
 
