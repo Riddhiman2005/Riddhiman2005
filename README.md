@@ -26,9 +26,25 @@
     nd galaxies fascinate me. I love capturing these objects through my telescope and camera, and exploring the wonders of the universe. 
     It's a intriguing experience that always leaves me in awe.
     
-   ![image](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/0ec76545-860b-4e14-87a1-d32c994b7424)
+   
 
- 
+| ![**Close and Detailed Capture of the Moon**](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/0ec76545-860b-4e14-87a1-d32c994b7424) | 
+|:--:| 
+| **Close and Detailed Capture of the Moon** |
+
+
+
+| ![**Jupiter**](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/3a695bd2-6eac-4d0a-a10d-ff041e4bc336) | 
+|:--:| 
+| **Capturing Jupiter- the Largest Planet in our Solar System** |
+
+
+| ![**Moon-Venus Occulusion**](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/39c18f1c-e0a0-4807-a646-dc0e30f90328) | 
+|:--:| 
+| **Moon-Venus Occulusion on March 24th** |
+
+
+
  
  ###   DEBATE  ###
  
