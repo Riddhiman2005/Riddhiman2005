@@ -187,13 +187,6 @@ I recently started uploading my Graphing works in Youtube Channel. I just do it 
 Here is the Link of the channel. [YOUTUBE](https://www.youtube.com/@riddhiman.bhattacharya6568). I mostly upload my graphing and coding projects.
 
 
-## Books I read in the Last One Year ##
-
-I'm a voracious reader.  Here are some books I've read, along with brief summaries that capture their essence.
-
-
-
-
 
 
 ## Contact ##
