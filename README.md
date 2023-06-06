@@ -189,7 +189,7 @@ Here is the Link of the channel. [YOUTUBE](https://www.youtube.com/@riddhiman.bh
 
 ## Books I read in the Last One Year ##
 
-I'm a voracious reader.  Here are some books I've read, along with brief summaries that capture their essence."
+I'm a voracious reader.  Here are some books I've read, along with brief summaries that capture their essence.
 
 
 
