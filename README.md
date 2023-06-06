@@ -16,10 +16,13 @@
 
    ### GRAPHING AND CODING ###
    
-   📈
+   📈 & 👨‍💻 I thoroughly enjoy coding and graphing as they allow me to 
+  unleash my creativity and create fascinating plots and artwork. Using languages like Python and graphing tools like Desmos, I can bring my ideas to life by combining mathematical equations with visual representation. It's an exhilariting experience that merges the logic world of coding and mathematics with the artistic flair, resulting in captivating and visually pleasing creations. With each line of code and graph, I dive deeper into a world where science and art beautifully intertwine, offering endless possibilities for exploration and expression.
    
-   👨‍💻
-   
+   ![image](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/8dcc226c-ca3e-4ee2-8e31-8cec1bdfea70)
+
+  I'll upload my works from time to time. Also I run a [Youtube Channel](https://www.youtube.com/@riddhiman.bhattacharya6568) where I upload the videos of the plots,and graphs. Make sure to visit it.
+  
  ###  ASTROPHOTOGRAPHY ###
     
     🔭 Sky observation is a passion of mine. The beauty and mystery of the stars, planets, a
