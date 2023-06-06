@@ -155,6 +155,16 @@ https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/c75c5895-e86e-4e
 ![Equation-1](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/ad4dff3d-b3e0-490f-8e76-4c635d91d9bb)
 
 
+##### 7)
+
+| ![Batman](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/0fdd39a8-87b2-4117-8a96-8f23d9847da7) | 
+|:--:| 
+| **Batman Equation** |
+
+
+
+
+
 
 **There are lot more. Whenever I'm free I open [Desmos Graphing](https://www.desmos.com/calculator) and spend my time trying some form of creative things. I'll update this 
 section from time to time.**
