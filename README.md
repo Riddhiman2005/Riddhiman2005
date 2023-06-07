@@ -15,9 +15,9 @@
 
 As I delve into the depths of my being, it may seem peculiar to describe myself using Physics concepts, but I delight in intertwining the realms of Physics and Mathematics into every aspect of my life.
 
-As I imagine myself as a quantum particle, I find myself in a state of superposition, akin to Schrödinger's Cat. It's intriguing to think that until someone enters my room and observes me, my true state remains uncertain, existing as a combination of possibilities.
+As I imagine myself as a quantum particle, I find myself in a state of superposition, akin to **Schrödinger's Cat**. It's intriguing to think that until someone enters my room and observes me, my true state remains uncertain, existing as a combination of possibilities.
 
-In this quantum analogy, the probability of finding me engrossed in reading a Physics paper in my room is high, just as it is for me attending Physics sessions or engaging in coding/graphing. 
+In this quantum analogy, the probability of finding me engrossed in reading a Physics paper in my room is high, just as it is for me **doing Physics stuffs** or **engaging in coding/graphing**. 
 
 Mathematically, I can be described by a wave function 
 
@@ -25,11 +25,11 @@ Mathematically, I can be described by a wave function
 
 where the square of its absolute value determines the likelihood of finding me in a particular state.
 
-As I reflect on this quantum perspective, I recognize that my level of enthusiasm is intimately tied to my inherent creativity and thinking. It's these qualities, represented by the matrix A, that contribute to shaping my state of mind.
+As I reflect on this quantum perspective, I recognize that my level of enthusiasm is intimately tied to my inherent creativity and thinking. It's these qualities, represented by matrix A, that contribute to shaping my state of mind.
 
 ![lagrida_latex_editor (1)](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/b61de0e5-f575-4d48-9f3b-426f9adfa022)
 
-In this formula, C represents the **inherent creativity**, and **C_1, C_2, ..., C_n** denote various aspects or facets of creativity that contribute to shaping your state of mind. Similarly, T represents thinking, and T_1, T_2, ..., T_n represent different components or dimensions of thinking that influence your state of mind.
+In this formula, **C** represents the **inherent creativity**, and **C_1, C_2, ..., C_n** denote various aspects or facets of creativity that contribute to shaping your state of mind. Similarly, **T** represents **thinking**, and **T_1, T_2, ..., T_n** represent different dimensions of thinking.
 
 
 Moreover, there lies a mysterious challenge before me
