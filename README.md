@@ -1,5 +1,5 @@
 
-## 💫**About Me** ##
+## 💫**Introduction** ##
 
 
 ![WhatsApp Image 2023-06-04 at 20 51 47](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/043f1341-32a5-47ff-bd4b-c3f9d1cf2ac8)
@@ -10,6 +10,12 @@
 - ⚡ Under Physics I'm interested in **Cosmology**, **Quantum Mechanics** and **String Theory**.
 - 🌱 I’m currently learning **Python 🐍** and **Fortran**
 
+
+## About Me ##
+
+As I delve into the depths of my being, it may seem peculiar to describe myself using Physics concepts, but I delight in intertwining the realms of Physics and Mathematics into every aspect of my life
+
+![lagrida_latex_editor (1)](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/b61de0e5-f575-4d48-9f3b-426f9adfa022)
 
 
 ## HOBBIES ##
