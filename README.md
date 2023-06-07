@@ -154,7 +154,19 @@ among students.
 
 ## BOOKS ##
 
-### Everlasting Quest for Physics ###
+### Everlasting Quest for Physics-I ###
+
+This book, inspired by my friend Wrick Pal, is a culmination of my gratitude for his unwavering support and motivation. Initially, I wrote articles in a disorganized manner, leading me to create Part 1 of "The Everlasting Quest for Physics" series. This book not only delves into my observational works in Physics but also explores topics beyond the school curriculum.
+
+With the support of my friends, I launched my own portal, "Everlasting Quest for Physics," on February 15, 2022. Physics, in my own understanding, is the philosophical approach to unraveling the fundamental workings of the Universe using mathematics, boundless curiosity, and imagination. I find studying Physics to be a delightful and fun experience, and my Physics teacher, Debashis Sanyal, advocates for a calm and focused approach to studying.
+
+Physics is a subject grounded in concepts, reliant on mathematics. A strong foundation in mathematics facilitates an elegant understanding and application of Physics, although genuine interest and hard work are essential. I would like to mention Wrick Pal, whose innovative mathematical prowess always amazed me, even though he lacks enthusiasm for Physics.
+
+The initial chapters of the book explore mathematical aspects, including Spherical Trigonometry and various operators utilized in Physics. Moving forward, we discuss intriguing theorems such as Fourier's, Taylor's, and Euler's Theorems. Later, we delve into the fascinating realms of Relativity and Quantum Mechanics, specifically focusing on Schrödinger's Quantum World. The book concludes with a discussion on Cause-Effect Relationships, topics beyond the curriculum, Cosmos under the Lenses of Thermodynamics, and the enigmatic nature of Time.
+
+Throughout the text, I have strived to present explanations and insights, incorporating relevant examples, videos, and links to further explore these captivating subjects. From intriguing paradoxes to philosophical implications, this book seeks to illuminate the world of Physics, offering a unique perspective and emphasizing the interplay between mathematics and observation.
+
+In collaboration with my friend Wrick Pal, I have engaged in thought-provoking discussions on various paradoxes and their applications in quantum physics. The journey through these concepts may be challenging but ultimately rewarding, unveiling the intricate nature of the quantum world.
 
 
 ## 🎨 ARTS 
