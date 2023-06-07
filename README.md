@@ -176,7 +176,7 @@ The initial chapters of the book explore mathematical aspects, including **Spher
 
 Throughout the text, I have strived to present explanations and insights, incorporating relevant examples, videos, and links to further explore these captivating subjects. From intriguing paradoxes to philosophical implications, this book seeks to illuminate the world of Physics, offering a unique perspective and emphasizing the interplay between mathematics and observation.
 
-In collaboration with my friend Wrick Pal, I have engaged in thought-provoking discussions on various paradoxes and their applications in quantum physics. The journey through these concepts may be challenging but ultimately rewarding, unveiling the intricate nature of the quantum world.
+I've tried to engage readers in thought-provoking discussions on various paradoxes and their applications in quantum physics. The journey through these concepts may be challenging but ultimately rewarding, unveiling the intricate nature of the quantum world.
 
 
 ## 🎨 ARTS 
