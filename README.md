@@ -153,7 +153,7 @@ among students.
 https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/c75c5895-e86e-4ec0-b025-f177bcbbe936
 
 
-##### 6)
+##### 6) <br>
 
 | ![Equation-1](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/ad4dff3d-b3e0-490f-8e76-4c635d91d9bb) |
 |:--:| 
@@ -195,6 +195,10 @@ section from time to time.**
 
 ### Coding ###
 
+
+Check this repository of mine where I've all the Codes for these Pictures. 
+
+
 ##### 1) **World Environment Day**
 
 
@@ -210,8 +214,21 @@ This Diagram of the Tree is prepared by Python Coding. It's not perfect. Still, 
 
 Done using **Python**.
 
+| ![Doraemon](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/f0cdfb88-5450-4883-9f40-472401142ca4) | 
+|:--:| 
+| **Hello Friends, my name is Doraemon** |
 
-![Screenshot (609)](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/f0cdfb88-5450-4883-9f40-472401142ca4)
+
+
+##### 3) **Rainbow**
+
+Done using **Python**
+
+| ![Rainbow](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/892f5535-1f37-4255-882a-b5ece219a77c) | 
+|:--:| 
+| **Rainbow** |
+
+
 
 
 
