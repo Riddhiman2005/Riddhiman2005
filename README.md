@@ -140,6 +140,12 @@ The other platform where I'm addicted from last few days is **Jupyter Notebook**
 
 
 **Everlasting Quest for Physics(EQP)** is an initiative to provide a platform for HS students with like minded peers and teach, discuss courses which are not under normal school curriculum.
+
+| ![EQP-Logo](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/7a89c255-7743-4f8d-b0b8-95b33b3a425b)
+ | 
+|:--:| 
+| **Everlasting Quest for Physics** |
+
 The is the [Website link](everlastingquestforphysics.wordpress.com) where you'll find my blogs. They are mostly for general students sometimes made creative with added humor to invoke the interests for Physics and Maths 
 among students.
 
