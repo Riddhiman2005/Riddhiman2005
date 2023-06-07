@@ -136,19 +136,26 @@ among students.
 ### GRAPHING ###
 
 ##### 1) <br>
+
  ![Graphing](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/9d42c36f-7134-48e0-a10f-92884d10cbd1) <br>
 
 <br>
 
 ##### 2)  <br>
 
+| ![Birthday Cake](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/e47f58f4-7f16-4827-ae4f-24b6c18a89ca) | 
+|:--:| 
+| **Haapy Birthday** |
 
-![Birthday Cake](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/dff9569e-4552-4c95-b676-9cc8c192f49d)
 
 
 ##### 3) <br>
 
-![Flag Made through Equations and Graphs](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/2c52825b-4aae-46d8-b20b-d642730c67f3)
+| ![Flag Made through Equations and Graphs](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/f6f687ac-db9a-463c-a523-1b485bbfc2f7) | 
+|:--:| 
+| **Jai Hind** |
+
+
 
 
 ##### 4)
@@ -169,9 +176,11 @@ https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/c75c5895-e86e-4e
 
 ##### 6) <br>
 
-| ![Equation-1](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/ad4dff3d-b3e0-490f-8e76-4c635d91d9bb) |
+| ![love](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/44c00890-2bae-41ed-a794-b976161dd612) |
 |:--:| 
 | **Heart** |
+
+
 
 
 ##### 7)
