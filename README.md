@@ -137,7 +137,11 @@ among students.
 
 ##### 1) <br>
 
- ![Graphing](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/9d42c36f-7134-48e0-a10f-92884d10cbd1) <br>
+| ![Graphing](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/a37d58be-2c04-4770-b79e-69d31942df42) | 
+|:--:| 
+| **Google** |
+
+ 
 
 <br>
 
@@ -147,7 +151,7 @@ among students.
 |:--:| 
 | **Haapy Birthday** |
 
-
+<br>
 
 ##### 3) <br>
 
@@ -158,21 +162,21 @@ among students.
 
 
 
-##### 4)
+##### 4)<br>
 
 
 
 https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/c75c5895-e86e-4ec0-b025-f177bcbbe936
 
-
-##### 5)
+<br>
+##### 5) <br>
 
 | ![YouTube](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/fc31eb8d-5942-4f12-a3da-de65b2c571d0) | 
 |:--:| 
 | **YouTube** |
 
 
-
+<br>
 
 ##### 6) <br>
 
@@ -180,24 +184,24 @@ https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/c75c5895-e86e-4e
 |:--:| 
 | **Heart** |
 
+<br>
 
 
-
-##### 7)
+##### 7) <br>
 
 | ![Batman](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/0fdd39a8-87b2-4117-8a96-8f23d9847da7) | 
 |:--:| 
 | **Batman Equation** |
 
-
-##### 8) 
+<br>
+##### 8) <br>
 
 | ![Egg](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/1d16665b-2c20-44b2-9d5a-b03aa5d340ee) | 
 |:--:| 
 | **Egg** |
 
-
-##### 9) 
+<br>
+##### 9) <br>
 
 
 | ![Bhai](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/5dcd8d9f-c0a6-4a95-9a57-8fcab85f7c1c) | 
@@ -205,7 +209,7 @@ https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/c75c5895-e86e-4e
 | **Smile is the best medicine** |
 
 
-
+<br>
 
 
 
@@ -231,7 +235,7 @@ Check this [repository](https://github.com/Riddhiman2005/Coding-Repositories) of
 
 
 This Diagram of the Tree is prepared by Python Coding. It's not perfect. Still, I thought to add it here.
-
+<br>
 
 ##### 2) **Doraemon**
 
@@ -241,7 +245,7 @@ Done using **Python**.
 |:--:| 
 | **Hello Friends, my name is Doraemon** |
 
-
+<br>
 
 ##### 3) **Rainbow**
 
@@ -252,7 +256,7 @@ Done using **Python**
 | **Rainbow** |
 
 
-
+<br>
 
 
 
