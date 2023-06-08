@@ -310,6 +310,15 @@ Done using **Python**
 <br>
 
 
+##### 4) **SIM of Revolution of Planets(using Html)- Very Basic*** 
+
+
+
+https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/b61d390b-41b9-4f7e-b00c-a75739936004
+
+
+
+
 
 ## YOUTUBE ##
 
