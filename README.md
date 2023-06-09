@@ -15,7 +15,7 @@
 
 As I delve into the depths of my being, it may seem peculiar to describe myself using Physics concepts, but I delight in intertwining the realms of Physics and Mathematics into every aspect of my life.
 
-***As I imagine myself as a quantum particle, I find myself in a state of superposition, akin to **Schrödinger's Cat**. ***It's intriguing to think that until someone enters my room and observes me, my true state remains uncertain, existing as a combination of possibilities.***
+***As I imagine myself as a quantum particle, I find myself in a state of superposition, akin to*** **Schrödinger's Cat**. ***It's intriguing to think that until someone enters my room and observes me, my true state remains uncertain, existing as a combination of possibilities.***
 
 In this quantum analogy, the probability of finding me engrossed in reading a Physics paper in my room is high, just as it is for me **doing Physics stuffs** or **engaging in coding/graphing**. 
 
