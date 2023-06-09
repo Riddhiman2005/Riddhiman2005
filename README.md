@@ -160,6 +160,9 @@ The other platform where I'm addicted from last few days is **Jupyter Notebook**
 The is the [Website link](everlastingquestforphysics.wordpress.com) where you'll find my blogs. They are mostly for general students sometimes made creative with added humor to invoke the interests for Physics and Maths 
 among students.
 
+Date of Foundation: 15th Feb,2022 <br>
+Collaborators:      Fun Learning Youth
+
 
 
 1) [Instagram](https://www.instagram.com/everlastingquestforphysics/) : Here, I regularly posts some Physics stuffs. 
