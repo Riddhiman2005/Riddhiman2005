@@ -342,7 +342,7 @@ I can be contacted by my two mails given below
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhiman2005)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Riddhiman2005/Riddhiman2005/blob/main/README.md))
 
 
-
+![Riddhi's Github Stats](https://github-readme-stats.vercel.app/api?username=Riddhiman2005)
 
 
 
