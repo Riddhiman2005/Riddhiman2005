@@ -107,6 +107,13 @@ I'm not very active in social media but here are my social media links <br>
 5) [Quora](https://www.quora.com/profile/Physics-Demons) <br>
 6) [YOUTUBE](https://www.youtube.com/@riddhiman.bhattacharya6568)
 
+## GitHub Stats ##
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhiman2005)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Riddhiman2005/Riddhiman2005/blob/main/README.md))
+
+
+![Riddhi's Github Stats](https://github-readme-stats.vercel.app/api?username=Riddhiman2005)
+
 
 
 ## Programming Languages ##
@@ -336,13 +343,6 @@ I can be contacted by my two mails given below
 1) [riddhiman.butai2005@gmail.com](riddhiman.butai2005@gmail.com)
 2) riddhibhp2005@gmail.com
 
-
-## GitHub Stats ##
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhiman2005)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Riddhiman2005/Riddhiman2005/blob/main/README.md))
-
-
-![Riddhi's Github Stats](https://github-readme-stats.vercel.app/api?username=Riddhiman2005)
 
 
 
