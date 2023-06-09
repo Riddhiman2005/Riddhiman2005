@@ -126,11 +126,13 @@ the enlisted languages
 
 
   1) **JAVA**
-  2) **C**
-  3) **C++**
-  4) **Python**
-  5) **Fortran**
-  6) **Html**
+  2) **Javascript**
+  3) **C**
+  4) **CSS**
+  5) **C++**
+  6) **Python**
+  7) **Fortran**
+  8) **Html**
 
 
 ## Addictions ##
@@ -173,9 +175,7 @@ among students.
 
 This book, inspired by my friend **Wrick Pal**, is a culmination of my gratitude for his unwavering support and motivation.This book not only delves into my observational works in Physics but also explores topics beyond the school curriculum.
 
- <br>
-**Physics is the philosophy to understand
-the functioning of the Universe at its most
+**Physics is the philosophy to understand the functioning of the Universe at its most
 fundamental level using the tools of mathematics,
 everlasting curiosity and imagination**. 
  
