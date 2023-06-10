@@ -109,11 +109,11 @@ I'm not very active in social media but here are my social media links <br>
 
 ## GitHub Stats ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhiman2005)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Riddhiman2005/Riddhiman2005/blob/main/README.md))
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riddhiman2005&show_icons=true&locale=en&layout=compact" alt="riddhiman2005" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riddhiman2005&show_icons=true&locale=en" alt="riddhiman2005" /></p>
 
-![Riddhi's Github Stats](https://github-readme-stats.vercel.app/api?username=Riddhiman2005)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riddhiman2005&" alt="riddhiman2005" /></p>
 
 
 
