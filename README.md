@@ -282,7 +282,21 @@ https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/c75c5895-e86e-4e
 | **Ice Cream** |
 
 
+<br>
 
+##### 11) <br>
+
+| ![Spider Web)](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/8037e42d-b159-47a6-941f-1a5b96745c4e)| 
+|:--:| 
+| **Spider Web** |
+
+
+
+##### 12) <br>
+
+| ![Instagram](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/884b275e-2266-4b66-bea4-55df8eae279a)| 
+|:--:| 
+| **Instagram Logo** |
 
 
 
