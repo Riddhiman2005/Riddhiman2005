@@ -2,13 +2,16 @@
 ## 💫**Introduction** ##
 
 
-![WhatsApp Image 2023-06-04 at 20 51 47](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/043f1341-32a5-47ff-bd4b-c3f9d1cf2ac8)
+![WhatsApp Image 2023-07-17 at 00 04 17](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/71330f3f-6b45-4572-aa4c-483a783753f3)
 
 
-- 👋 Hi, I’m Riddhiman Bhattacharya
+
+- 👋 Hi, I’m Riddhiman Bhattacharya FRSA*
 - 👀 I’m interested in **Physics** and **Mathematics**
 - ⚡ Under Physics I'm interested in **Cosmology**, **Quantum Mechanics** and **String Theory**.
 - 🌱 I’m currently learning **Python 🐍**, **Fortran** and **Matlab**.
+
+  *FRSA: Fellow of Royal Society of Arts, London
 
 
 ## About Me ##
@@ -139,11 +142,8 @@ the enlisted languages
 
 So, you thought this is going to be Instagram reels or Facebook?  No, that's not the case. 
 
-To be honest, I'm really addicted to **GitHub** and **LaTex**. These days,  most of the time, you'll find me studying books or blogs learning GitHub and LaTex usage.
-
+To be honest, I'm really addicted to **GitHub** and **LaTex**. 
  
-The other platform where I'm addicted from last few days is **Jupyter Notebook**.
-
 
 
 
