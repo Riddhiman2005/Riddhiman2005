@@ -210,7 +210,7 @@ I've tried to engage readers in thought-provoking discussions on various paradox
 
 | ![Birthday Cake](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/e47f58f4-7f16-4827-ae4f-24b6c18a89ca) | 
 |:--:| 
-| **Haapy Birthday** |
+| **Happy Birthday** |
 
 <br>
 
