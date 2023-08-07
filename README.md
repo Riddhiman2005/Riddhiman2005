@@ -119,6 +119,10 @@ I'm not very active in social media but here are my social media links <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riddhiman2005&" alt="riddhiman2005" /></p>
 
 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=dhirenpatil44">
+</a>
+<a href="https://github.com/Riddhiman2005?tab=followers"><img src="https://img.shields.io/github/followers/Riddhiman2005?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
