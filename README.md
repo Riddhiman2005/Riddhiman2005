@@ -188,11 +188,18 @@ everlasting curiosity and imagination**.
  
  <br>
 
-The initial chapters of the book explore mathematical aspects, including **Spherical Trigonometry**. Moving forward, we discuss intriguing theorems such as **Fourier's**, **Taylor's**, and **Euler's Theorems**. Later, we delve into the fascinating realms of **Relativity** and **Quantum Mechanics**, specifically focusing on **Schrödinger's Quantum World**. The book concludes with a discussion on Cause-Effect Relationships, Cosmos under the Lenses of Thermodynamics, the drakness of night sky, the enigmatic nature of Time and matter-antimatter's presence.
+The initial chapters of the book explore mathematical aspects, including **Spherical Trigonometry**. Moving forward, we discuss intriguing theorems such as **Fourier's**, **Taylor's**, and **Euler's Theorems**. Later, we delve into the fascinating realms of **Relativity** and **Quantum Mechanics**, specifically focusing on **Schrödinger's Quantum World**. The book concludes with a discussion on **Cause-Effect Relationships**, **Cosmos under the Lenses of Thermodynamics**, the darkness of night sky, the enigmatic nature of Time, and matter-antimatter's presence.
 
 Throughout the text, I have strived to present explanations and insights, incorporating relevant examples, videos, and links to further explore these captivating subjects. From intriguing paradoxes to philosophical implications, this book seeks to illuminate the world of Physics, offering a unique perspective and emphasizing the interplay between mathematics and observation.
 
 I've tried to engage readers in thought-provoking discussions on various paradoxes and their applications in quantum physics. The journey through these concepts may be challenging but ultimately rewarding, unveiling the intricate nature of the quantum world.
+
+
+
+### Geometric Kinematics in Lorentzian Geometry: Relativistic Motions and Their Characterizations ###
+
+
+
 
 
 ## 🎨 ARTS 
