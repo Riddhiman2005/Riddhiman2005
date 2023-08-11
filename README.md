@@ -199,6 +199,7 @@ I've tried to engage readers in thought-provoking discussions on various paradox
 ### Geometric Kinematics in Lorentzian Geometry: Relativistic Motions and Their Characterizations ###
 
 
+![Screenshot (935)](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/4c84131b-e3c4-41cf-afa2-b34a242aa545)
 
 
 
@@ -385,7 +386,7 @@ Here is the Link of the channel. [YOUTUBE](https://www.youtube.com/@riddhiman.bh
 I can be contacted by my two mails given below
 
 1) [riddhiman.butai2005@gmail.com](riddhiman.butai2005@gmail.com)
-2) riddhibhp2005@gmail.com
+2) [riddhibhp2005@gmail.com](riddhibhp2005@gmail.com)
 
 
 
