@@ -201,7 +201,10 @@ I've tried to engage readers in thought-provoking discussions on various paradox
 
 ![Screenshot (935)](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/4c84131b-e3c4-41cf-afa2-b34a242aa545)
 
+In this work, I've focused on the study of three notable motions in General Relativity, Uniformly Accelerated Motion (UAM), Unchanged Direction Motion (UDM), and Uniform Circular Motion (UCM) which are well-established concepts in Classical Mechanics. UAM was explored in Lorentz-Minkowski spacetime L^4 and referred to as hyperbolic motion. However, I aim to extend the analysis of these motions to arbitrary spacetimes using modern Lorentzian Geometry techniques.
 
+In Chapter 1, I have explained the essential tools of (differential) Lorentzian Geometry, including the notion of time orientation for a Lorentzian manifold, which is fundamental in defining spacetime.
+The main focus of Chapter 2 is to introduce the Fermi-Walker covariant derivative of an observer and the associated Fermi-Walker parallel transport. This enables the analysis of an observer that follows a UAM, where their 4-acceleration remains constant in a general spacetime. Such an observer can be geometrically characterized as a Lorentzian circle. I also explored how trajectories of uniformly accelerated observers can be represented as the projection of integral curves of a specific vector field defined on a particular fiber bundle over the spacetime. Moreover, I discussed assumptions that ensure the absence of singularities for inextensible UAM observers within a finite proper time. Chapter 2 also delved into the study of UDM and UCM in arbitrary spacetimes. I analyzed these three motions from the perspective of the corresponding ordinary differential equations that define each motion. Throughout the work, I emphasized the significance of accurate techniques from Lorentzian Geometry, particularly the Fermi-Walker connection, which provides each observer with a moving gyroscope in their relative space at each instant of their proper time. These advanced tools allowed me to gain a deeper understanding of the motions observed in General Relativity.
 
 ## 🎨 ARTS 
 
