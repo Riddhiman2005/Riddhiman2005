@@ -135,14 +135,17 @@ I'm learning a lot of things. Though I'm not expert in coding, I can do a little
 the enlisted languages
 
 
-  1) **JAVA**
-  2) **Javascript**
-  3) **C**
-  4) **CSS**
-  5) **C++**
-  6) **Python**
-  7) **Fortran**
-  8) **Html**
+  1)  **JAVA**
+  2)  **Javascript**
+  3)  **C**
+  4)  **CSS**
+  5)  **C++**
+  6)  **Python**
+  7)  **Fortran**
+  8)  **Html**
+  9)  **Kotlin**
+  10) **Rust**
+      
 
 
 ## Addictions ##
