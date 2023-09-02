@@ -106,12 +106,9 @@ waiting to be unraveled. I believe that cracking this enigma requires the profou
 ## 🌐 Social Media ##
 
 I'm not very active in social media but here are my social media links <br>
-1) [Facebook](https://www.facebook.com/profile.php?id=100090725665587)<br>
-2) [Instagram](https://instagram.com/riddhiphy?igshid=NTc4MTIwNjQ2YQ==) <br>
-3) [Linkedin](https://www.linkedin.com/in/riddhiman-bhattacharya-211a61236/) <br>
-4) [Twitter](https://twitter.com/CosmoQuantumRid) <br>
-5) [Quora](https://www.quora.com/profile/Physics-Demons) <br>
-6) [YOUTUBE](https://www.youtube.com/@riddhiman.bhattacharya6568)
+
+1) [Twitter](https://twitter.com/CosmoQuantumRid) <br>
+2) [YOUTUBE](https://www.youtube.com/@riddhiman.bhattacharya6568)
 
 ## GitHub Stats ##
 
