@@ -145,13 +145,6 @@ the enlisted languages
       
 
 
-## Addictions ##
-
-So, you thought this is going to be Instagram reels or Facebook?  No, that's not the case. 
-
-To be honest, I'm really addicted to **GitHub** and **LaTex**. 
- 
-
 
 
 
