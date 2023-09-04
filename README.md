@@ -12,7 +12,7 @@
 - ⚡ Under Physics I'm interested in **Cosmology**, **Quantum Mechanics** and **String Theory**.
 - 🌱 I’m currently learning **Python 🐍**, **Fortran** and **Matlab**.
 
-  *FRSA: Fellow of Royal Society of Arts, London
+  *FRSA: Fellow of Royal Society of Arts, London,UK
 
 
 ## About Me ##
