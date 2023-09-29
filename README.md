@@ -2,7 +2,9 @@
 ## 💫**Introduction** ##
 
 
-![WhatsApp Image 2023-07-17 at 00 04 17](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/71330f3f-6b45-4572-aa4c-483a783753f3)
+| ![a091f947-6547-4f37-922f-2243123c7cf0](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/da2ad637-5ee4-470d-972d-a6d109453ad2)| 
+|:--:| 
+||
 
 
 
@@ -16,6 +18,8 @@
 
 
 ## About Me ##
+
+![WhatsApp Image 2023-07-17 at 00 04 17](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/71330f3f-6b45-4572-aa4c-483a783753f3)
 
 As I delve into the depths of my being, it may seem peculiar to describe myself using Physics concepts, but I delight in intertwining the realms of Physics and Mathematics into every aspect of my life.
 
