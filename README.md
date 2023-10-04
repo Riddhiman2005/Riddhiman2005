@@ -10,6 +10,7 @@
 
 
 
+
 - 👋 Hi, I’m Riddhiman Bhattacharya FRSA*
 - 👀 I’m interested in **Physics** and **Mathematics**
 - ⚡ Under Physics I'm interested in **Cosmology**, **Quantum Mechanics** and **String Theory**.
