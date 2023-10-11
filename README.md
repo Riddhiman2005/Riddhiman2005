@@ -46,7 +46,6 @@ As I reflect on this quantum perspective, I recognize that my level of enthusias
 In this formula, $C$ represents the **inherent creativity**, and **$C_1, C_2, ..., C_n$**  denote various aspects or facets of creativity that contribute to shaping your state of mind. Similarly, **T** represents **thinking**, and **$T_1, T_2, ..., T_n$** represent different dimensions of thinking.
 
 
-
 Moreover, there lies a mysterious challenge before me
 
 ![lagrida_latex_editor (4)](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/704a712f-2e21-43a5-bff8-8f0062567432)
