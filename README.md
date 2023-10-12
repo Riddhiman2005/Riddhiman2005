@@ -102,7 +102,6 @@ waiting to be unraveled. I believe that cracking this enigma requires the profou
      aimed at engaging general students in science. My goal is to make 
      science more accessible and enjoyable for everyone, and I believe that by breaking down complex concepts and 
      making them easy to understand, I can help inspire a love of learning in my readers.
- 
       
 
 
