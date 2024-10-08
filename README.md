@@ -53,7 +53,7 @@ waiting to be unraveled. I believe that cracking this enigma requires the profou
    ### GRAPHING AND CODING ###
    
    📈 & 👨‍💻 I thoroughly enjoy coding and graphing as they allow me to 
-  unleash my creativity and create fascinating plots and artwork. Using languages like Python and graphing tools like Desmos, I can bring my ideas to life by combining mathematical equations with visual representation. It's an exhilariting experience that merges the logic world of coding and mathematics with the artistic flair, resulting in captivating and visually pleasing creations. With each line of code and graph, I dive deeper into a world where science and art beautifully intertwine, offering endless possibilities for exploration and expression.
+  unleash my creativity and create fascinating plots and artwork. Using graphing tools like Desmos, I can bring my ideas to life by combining mathematical equations with visual representation. It's an exhilariting experience that merges the logic world of coding and mathematics with the artistic flair, resulting in captivating and visually pleasing creations. With each line of code and graph, I dive deeper into a world where science and art beautifully intertwine, offering endless possibilities for exploration and expression.
    
    ![image](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/8dcc226c-ca3e-4ee2-8e31-8cec1bdfea70)
 
@@ -102,11 +102,11 @@ waiting to be unraveled. I believe that cracking this enigma requires the profou
 ###   MUSIC: INSTRUMENTAL ###
 
       🎸 As a music enthusiast, I love diving into the world of instruments. 
-      From the soothing melodies of Rabindrasangeet to exploring various genres, I enjoy experimenting on the guitar, synthesizer, tabla, and khol. Though my musical endeavors may not be regular, once I start with my Guitar, I get lost in a captivating journey of endless experimentation and musical exploration.
+      From the soothing melodies of Rabindrasangeet to exploring various genres, I enjoy experimenting on the guitar. Though my musical endeavors may not be regular, once I start with my Guitar, I get lost in a captivating journey of endless experimentation and musical exploration.
 
 ## 🌐 Social Media ##
 
-I'm not very active in social media but here are my social media links <br>
+I'm almost never active in social media but here are my social media links <br>
 
 1) [Twitter](https://twitter.com/CosmoQuantumRid) <br>
 2) [YOUTUBE](https://www.youtube.com/@riddhiman.bhattacharya6568)
@@ -126,24 +126,6 @@ I'm not very active in social media but here are my social media links <br>
 <a href="https://github.com/Riddhiman2005?tab=followers"><img src="https://img.shields.io/github/followers/Riddhiman2005?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-
-## Programming Languages ##
-
-I'm learning a lot of things. Though I'm not expert in coding, I can do a little bit. Out of my own interest, I've learnt or to say am learning 
-the enlisted languages
-
-
-  1)  **JAVA**
-  2)  **Javascript**
-  3)  **C**
-  4)  **CSS**
-  5)  **C++**
-  6)  **Python**
-  7)  **Fortran**
-  8)  **Html**
-  9)  **Kotlin**
-  10) **Rust**
-      
 
 
 
@@ -166,13 +148,6 @@ Collaborators:      Fun Learning Youth
 
 
 
-1) [Instagram](https://www.instagram.com/everlastingquestforphysics/) : Here, I regularly posts some Physics stuffs. 
-
-
-
-2) [Facebook](https://www.facebook.com/profile.php?id=100092194485891)
-
-
 ## BOOKS ##
 
 ### Everlasting Quest for Physics-I ###
@@ -192,17 +167,6 @@ Throughout the text, I have strived to present explanations and insights, incorp
 
 I've tried to engage readers in thought-provoking discussions on various paradoxes and their applications in quantum physics. The journey through these concepts may be challenging but ultimately rewarding, unveiling the intricate nature of the quantum world.
 
-
-
-### Geometric Kinematics in Lorentzian Geometry: Relativistic Motions and Their Characterizations ###
-
-
-![Screenshot (935)](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/4c84131b-e3c4-41cf-afa2-b34a242aa545)
-
-In this work, I've focused on the study of three notable motions in General Relativity, Uniformly Accelerated Motion (UAM), Unchanged Direction Motion (UDM), and Uniform Circular Motion (UCM) which are well-established concepts in Classical Mechanics. UAM was explored in Lorentz-Minkowski spacetime L^4 and referred to as hyperbolic motion. However, I aim to extend the analysis of these motions to arbitrary spacetimes using modern Lorentzian Geometry techniques.
-
-In Chapter 1, I have explained the essential tools of (differential) Lorentzian Geometry, including the notion of time orientation for a Lorentzian manifold, which is fundamental in defining spacetime.
-The main focus of Chapter 2 is to introduce the Fermi-Walker covariant derivative of an observer and the associated Fermi-Walker parallel transport. This enables the analysis of an observer that follows a UAM, where their 4-acceleration remains constant in a general spacetime. Such an observer can be geometrically characterized as a Lorentzian circle. I also explored how trajectories of uniformly accelerated observers can be represented as the projection of integral curves of a specific vector field defined on a particular fiber bundle over the spacetime. Moreover, I discussed assumptions that ensure the absence of singularities for inextensible UAM observers within a finite proper time. Chapter 2 also delved into the study of UDM and UCM in arbitrary spacetimes. I analyzed these three motions from the perspective of the corresponding ordinary differential equations that define each motion. Throughout the work, I emphasized the significance of accurate techniques from Lorentzian Geometry, particularly the Fermi-Walker connection, which provides each observer with a moving gyroscope in their relative space at each instant of their proper time. These advanced tools allowed me to gain a deeper understanding of the motions observed in General Relativity.
 
 ## 🎨 ARTS 
 
