@@ -311,19 +311,7 @@ Done using **Python**.
 
 <br>
 
-##### 3) **Rainbow**
-
-Done using **Python**
-
-| ![Rainbow](https://github.com/Riddhiman2005/Riddhiman2005/assets/130882317/892f5535-1f37-4255-882a-b5ece219a77c) | 
-|:--:| 
-| **Rainbow** |
-
-
-<br>
-
-
-##### 4) **SIM of Revolution of Planets(using Html)- Very Basic*** 
+##### 3) **SIM of Revolution of Planets(using Html)- Very Basic*** 
 
 
 
