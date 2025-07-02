@@ -104,12 +104,7 @@ waiting to be unraveled. I believe that cracking this enigma requires the profou
       🎸 As a music enthusiast, I love diving into the world of instruments. 
       From the soothing melodies of Rabindrasangeet to exploring various genres, I enjoy experimenting on the guitar. Though my musical endeavors may not be regular, once I start with my Guitar, I get lost in a captivating journey of endless experimentation and musical exploration.
 
-## 🌐 Social Media ##
 
-I'm almost never active in social media but here are my social media links <br>
-
-1) [Twitter](https://twitter.com/CosmoQuantumRid) <br>
-2) [YOUTUBE](https://www.youtube.com/@riddhiman.bhattacharya6568)
 
 ## GitHub Stats ##
 
